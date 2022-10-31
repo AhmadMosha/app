@@ -1,0 +1,4 @@
+#Mon Oct 31 06:31:02 EET 2022
+base.0=/home/mosha/workspace/flutter/Flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
